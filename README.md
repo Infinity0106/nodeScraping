@@ -17,6 +17,8 @@ de heroku y obtendremos la url de la base de datos
 
 ## parte 2
 
+http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.WhoJq7Q-e3U
+
 # TODO
 
 * [ ] crear base de datos postgres
