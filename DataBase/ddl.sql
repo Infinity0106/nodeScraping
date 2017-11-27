@@ -8,9 +8,8 @@ create table Campeones (
 create table Habilidades (
 	nombreFK varchar(50) REFERENCES Campeones(nombre),
 	nombre varchar(100),
-	descripcion varchar(200),
-	urlLogo text,
-	urlVideo text
+	descripcion text,
+	urlLogo text
 );
 
 create table Aspectos (
