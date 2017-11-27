@@ -3,3 +3,6 @@ git:
 
 build:
 	cd front && npm run build
+
+start:
+	nodemon start
